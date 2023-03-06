@@ -1,5 +1,5 @@
 <h1 align="center">
-<br>Commits Semânticos 
+<br>Detecção de faces
 </h1>
 
 A detecção de faces em data science é o processo de identificar e localizar rostos humanos em imagens e vídeos. É uma técnica de processamento de imagem que usa algoritmos para detectar e reconhecer rostos humanos em imagens e vídeos.
