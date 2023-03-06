@@ -50,6 +50,6 @@ Além disso, o Python também é uma linguagem de programação fácil de aprend
     </div>
     <br/>
     <p> 
-      <a href="https://github.com/robertolima-dev/DATA_SCIENCE_face_detection/blob/main/LICENSE.md">LICENÇA</a>
+      <a href="https://github.com/robertolima-dev/licenca/blob/main/LICENSE.md">LICENÇA</a>
     </p>
 </div>
